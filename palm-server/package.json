@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Ray Villalobos",
+  "author": "Deepa Subramanian",
   "license": "ISC",
   "dependencies": {
     "@google-ai/generativelanguage": "^0.2.1",
